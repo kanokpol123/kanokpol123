@@ -1,9 +1,10 @@
 ## Hi there, I'm Kanok 👋
 
-<div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300" style = "object-fit: cover;"/>
-</div>
+<div align="center">
+  <img src="https://github.com/kanokpol123/kanokpol123/blob/main/welcome_to_my-profile.png" width="100%" height="300" style = "object-fit: cover;"/>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=kanokpol123&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **kanokpol123/kanokpol123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
