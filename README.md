@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### Full Stack Developer · Software Engineer · Technical Writer
+### Full Stack Developer · Software Engineer · Problem Solving
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kanokpol123&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kanokpol123)
 [![GitHub followers](https://img.shields.io/github/followers/kanokpol123?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kanokpol123?tab=followers)
@@ -58,21 +58,9 @@ const kanok = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanokpol123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanokpol123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kanokpol123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanokpol123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 ---
 
