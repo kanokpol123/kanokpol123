@@ -24,10 +24,10 @@
 const kanok = {
   role:       "Full Stack Developer",
   location:   "Thailand 🇹🇭",
-  focus:      ["Web Applications", "Technical Writing", "Clean Architecture"],
+  focus:      ["Web Applications", "Mobile Applications"],
   currently:  "Building scalable frontend & backend systems",
   exploring:  "Technical Content Creation",
-  askMeAbout: ["PHP/Laravel", "Node.js", ".NET", "JavaScript", "SQL"],
+  askMeAbout: ["PHP/Laravel", "Node.js", "ASP.NET Core MVC", "JavaScript", "TypeScript", "SQL", "React", "Next.js"],
 };
 ```
 
