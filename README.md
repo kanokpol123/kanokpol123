@@ -1,69 +1,91 @@
-## Hi there, I'm Kanok 👋
+<div align="center">
+
+```
+██╗  ██╗ █████╗ ███╗   ██╗ ██████╗ ██╗  ██╗
+██║ ██╔╝██╔══██╗████╗  ██║██╔═══██╗██║ ██╔╝
+█████╔╝ ███████║██╔██╗ ██║██║   ██║█████╔╝ 
+██╔═██╗ ██╔══██║██║╚██╗██║██║   ██║██╔═██╗ 
+██║  ██╗██║  ██║██║ ╚████║╚██████╔╝██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+### Full Stack Developer · Software Engineer · Technical Writer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kanokpol123&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kanokpol123)
+[![GitHub followers](https://img.shields.io/github/followers/kanokpol123?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kanokpol123?tab=followers)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const kanok = {
+  role:       "Full Stack Developer",
+  location:   "Thailand 🇹🇭",
+  focus:      ["Web Applications", "Technical Writing", "Clean Architecture"],
+  currently:  "Building scalable frontend & backend systems",
+  exploring:  "Technical Content Creation",
+  askMeAbout: ["PHP/Laravel", "Node.js", ".NET", "JavaScript", "SQL"],
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/kanokpol123/kanokpol123/blob/main/welcome_to_my-profile.png" width="100%" height="300" style = "object-fit: cover;"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kanokpol123&style=flat-square&color=blue" alt=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanokpol123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanokpol123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<!--
-**kanokpol123/kanokpol123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
----
-
-### :woman_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-  
-<!--
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
--->
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MS"  alt="MS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot-net" alt="Dot-net" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kanokpol123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-### :fire: My Stats :
+## 🏆 GitHub Trophies
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanokpol123&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanokpol123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanokpol123&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
